@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>闲鱼搜索</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="baidu-site-verification" content="ZxIgW67qA9" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="闲鱼搜索,闲鱼如何搜索,闲鱼怎么搜索,闲鱼在哪搜索,闲鱼如何搜索宝贝,闲鱼如何搜索用户"/>
+<meta name="description" content="闲鱼宝贝搜索,闲鱼用户搜索"/>
+<script type="text/javascript" src="js/inde1x-min.js"></script>
+<link rel="stylesheet" href="css/so.css">
 
-You can use the [editor on GitHub](https://github.com/sbwffgli/sbwffgli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<div class="search-form">
+<div id="search-bd" class="search-bd">
+<ul>
+<li class="selected" name=宝贝">宝贝</li>
+<li class="" name=用户">用户</li>
+</ul>
+</div>
+<div id="search-hd" class="search-hd">
+<div class="search-button">
+<button id="submit" class="btn-search" ><img src="img/zoom.png" class="zoom" alt="搜索" ></button>
+</div>
+<div class="search-common-panel">
+<div class="search-combobox-input-wrap">
+<input type="text" name="q" placeholder="搜索闲鱼宝贝" class="search-input" id="s1" list="List">
+<input type="text" name="q" placeholder="搜索闲鱼用户" class="search-input" id="s2">
+<datalist id="List" ></datalist>
+</div>
+</div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbwffgli/sbwffgli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+<script type="text/javascript" src="js/list.js"></script>
+</html>
